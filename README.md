@@ -59,7 +59,26 @@ For complete examples of the standard that use real-world data, please see the [
   "metadata": {
     "title": "",
     "description": "",
-    "author": ""
+    +"creationDate": "",
++    "authors": 
++      [
++        {
++          "name":"",
++          "id":"",
+          /**
+           * The organization fields serves the purpose of displaying the primary organization
+           * associated with a given author (e.g. Brigham Young University, LucidChart, FlexSim).
+           */
++          "organization":"",
+            /**
+             * The site field contains information pertaining to an optional primary site for
+             * the author in question. This could be, for example, 
+             * a Google+ account, a blog, or a website and could serve to better recognize
+             * and publicize the author and his/her work.
+             */
++          "site":""
++        }
++      ]
   },
 
   /**
